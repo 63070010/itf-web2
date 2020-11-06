@@ -16,13 +16,14 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-heade bg-light text-white">
-                        <img src="img/content/office5.jpg" class="img-fluid rounded" />
+                        <img src="img/gambit.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p>This is a Phone.</p>
+                        <p>When you read the words “Netflix limited drama series about addiction, obsession, trauma, and chess,” 
+                           the first adjective which springs to mind is probably not “thrilling.” But here we are, and “The Queen’s Gambit,”</p>
                     </div>
                     <div class="card-footer">
-                        By 161
+                        By movie_style
                     </div>
                 </div>
             </div>
