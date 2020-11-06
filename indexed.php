@@ -49,7 +49,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-heade bg-light text-white">
-                        <img src="img/work/work9.jpg" class="img-fluid rounded" />
+                        <img src="kmi.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p><b>best anime movie<b><br>
