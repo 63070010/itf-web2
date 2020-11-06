@@ -16,7 +16,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-header bg-danger text-white">
-                        <img src="img/content/officee5.jpg" class="img-fluid rounded" />
+                        <img src="img/content/office5.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p>This is a Phone.</p>
