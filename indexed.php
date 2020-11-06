@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-sm-3">
                 <div class="card">
-                    <div class="card-header bg-danger text-white">
+                    <div class="card-heade bg-light text-white">
                         <img src="img/content/office5.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
@@ -28,7 +28,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                    <div class="card-header bg-danger text-white">
+                    <div class="card-heade bg-light text-white">
                         <img src="img/content/office10.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
@@ -41,7 +41,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                    <div class="card-header bg-danger text-white">
+                    <div class="card-heade bg-light text-white">
                         <img src="img/work/work9.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
