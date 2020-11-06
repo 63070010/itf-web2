@@ -52,10 +52,14 @@
                         <img src="img/work/work9.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p>This is meeting room.</p>
+                        <p><b>best anime movie<b><br>
+                            I WANT TO EAT YOUR PANCREAS (KIMI NO SUIZOU WO TABETAI) movie info An aloof boy comes across a book in a hospital waiting room. 
+                            He soon discovers that it is a diary kept by his very popular classmate who reveals to him that 
+                            she is secretly suffering from a fatal pancreatic illness.</p>
                     </div>
                     <div class="card-footer">
-                        By 161
+                        By www.rottentomatoes.com<br>
+                        Sep 1, 2018
                     </div>
                 </div>
             </div>
@@ -64,4 +68,3 @@
 </body>
 
 </html>
-
