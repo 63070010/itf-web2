@@ -16,7 +16,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-header bg-danger text-white">
-                        <img src="img/content/offic5.jpg" class="img-fluid rounded" />
+                        <img src="img/content/officee5.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p>This is a Phone.</p>
@@ -29,7 +29,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-header bg-danger text-white">
-                        <img src="img/content/offic10.jpg" class="img-fluid rounded" />
+                        <img src="img/content/office10.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p>I am working.</p>
