@@ -32,7 +32,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-heade bg-light text-white">
-                        <img src="game.jpg" class="img-fluid rounded" />
+                        <img src="Dame.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p><b>game of the year 2019</b><br>
