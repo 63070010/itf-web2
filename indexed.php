@@ -23,7 +23,7 @@
                            the first adjective which springs to mind is probably not “thrilling.” But here we are, and “The Queen’s Gambit,”</p>
                     </div>
                     <div class="card-footer">
-                        By movie_style
+                        By https://www.rogerebert.com
                     </div>
                 </div>
             </div>
