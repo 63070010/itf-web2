@@ -19,25 +19,30 @@
                         <img src="gambit.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p><b>Best series</b>
+                        <p><b>Best series</b><br>
                            When you read the words “Netflix limited drama series about addiction, obsession, trauma, and chess,” 
                            the first adjective which springs to mind is probably not “thrilling.” But here we are, and “The Queen’s Gambit,”</p>
                     </div>
                     <div class="card-footer">
-                        By https://www.rogerebert.com
+                        By www.rogerebert.com<br>
+                        October 23, 2020
                     </div>
                 </div>
             </div>
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-heade bg-light text-white">
-                        <img src="img/content/office10.jpg" class="img-fluid rounded" />
+                        <img src="game.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p>I am working.</p>
+                        <p><b>game of the year 2019</b><br>
+                        The Game Awards 2019 was an award show that honored the best video games of 2019. The event was hosted by 
+                            Geoff Keighley at the Microsoft Theater in Los Angeles on December 12, 2019, 
+                            and was viewed by over 45 million people online. Sekiro: Shadows Die Twice was awarded Game of the Year</p>
                     </div>
                     <div class="card-footer">
-                        By 161
+                        By en.wikipedia.org<br>
+                        December 12, 2019
                     </div>
                 </div>
             </div>
