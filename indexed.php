@@ -19,7 +19,8 @@
                         <img src="gambit.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p>When you read the words “Netflix limited drama series about addiction, obsession, trauma, and chess,” 
+                        <p>Best series<br>
+                           When you read the words “Netflix limited drama series about addiction, obsession, trauma, and chess,” 
                            the first adjective which springs to mind is probably not “thrilling.” But here we are, and “The Queen’s Gambit,”</p>
                     </div>
                     <div class="card-footer">
