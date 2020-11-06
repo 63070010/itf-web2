@@ -16,7 +16,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-heade bg-light text-white">
-                        <img src="img/gambit.jpg" class="img-fluid rounded" />
+                        <img src="gambit.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p>When you read the words “Netflix limited drama series about addiction, obsession, trauma, and chess,” 
